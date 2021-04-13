@@ -19,7 +19,3 @@ subsets: "latin"
 subsets: "latin-ext"
 subsets: "menu"
 subsets: "vietnamese"
-source {
-  repository_url: "https://github.com/stipub/stixfonts"
-  commit: "85ca3fb1be4f68ee6d36e83ccae63fc15a5b40cb"
-}
